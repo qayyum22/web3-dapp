@@ -1,4 +1,4 @@
-# Webe-DApp
+# Web3-DApp
 
 I am building this app using Ether.js, Next.js, React, Solidity for blockchain concepts and Ethereum-based applications.
 
